@@ -1,0 +1,22 @@
+Company,Job,Degree,Salary_more_than_100k
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,business manager,bachelors,1
+google,business manager,masters,1
+google,computer programmer,bachelors,0
+google,computer programmer,masters,1
+Cipla,sales executive,masters,0
+Cipla,computer programmer,bachelors,0
+Cipla,business manager,bachelors,0
+Cipla,business manager,masters,1
+Facebook,sales executive,bachelors,1
+Facebook,sales executive,masters,1
+Facebook,business manager,bachelors,1
+Facebook,business manager,masters,1
+Facebook,computer programmer,bachelors,1
+Facebook,computer programmer,masters,1
+Apple,sales executive,bachelors,0
+Apple,computer programmer,bachelors,0
+Apple,business manager,masters,1
+Apple,business manager,masters,1
+Apple,computer programmer,masters,0
